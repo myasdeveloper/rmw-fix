@@ -46,9 +46,9 @@
       "extends": ["react-app", "react-app/jest"]
     },
     "devDependencies":{
-      "@testing-library/jest-dom": "^5.11.4",
-      "@testing-library/react": "^12.1.0",
-      "@testing-library/user-event": "^13.1.10"
+      "@testing-library/jest-dom": "^5.11.6",
+      "@testing-library/react": "^13.3.0",
+      "@testing-library/user-event": "^14.3.10"
     }
   }
 }
